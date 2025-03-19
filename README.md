@@ -15,4 +15,3 @@ This project explores my 2024 Garmin fitness data, analyzing trends in **activit
 - **Python, Pandas, Matplotlib, Seaborn** for data analysis & visualization.  
 - **Kaggle Notebooks** for interactive exploration.  
 
-More projects to come across various fields of **data science, fitness analytics, and AI-driven insights!** 🚀  
