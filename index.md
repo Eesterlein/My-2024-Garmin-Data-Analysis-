@@ -41,19 +41,19 @@ Wearable tech generates massive amounts of data, but it often goes unused. In th
 ## 📊 Key Visualizations
 
 ### Monthly Activity Trends
-![Activity Trends](activity_by_month.png)
+![Activity Trends](outputs/activity_levels_over_time.png)
 
 ### Intensity Minutes vs. Calories Burned
-![Calories vs Intensity](calories_vs_intensity.png)
+![Calories vs Intensity](outputs/intensity_vs_cal.png)
 
 ### Resting Heart Rate vs. Stress
-![RHR vs Stress](resting_heart_rate_vs_stress.png)
+![RHR vs Stress](outputs/hr_stress.png)
 
 ### Monthly Sleep Duration
-![Sleep Duration](monthly_sleep_minutes.png)
+![Sleep Duration](outputs/sleep_duration.png)
 
 ### Stress Levels by Month
-![Monthly Stress](monthly_stress_average.png)
+![Monthly Stress](outputs/monthly_stress.png)
 
 ---
 
