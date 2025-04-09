@@ -4,7 +4,7 @@ Analysis of my 2024 Garmin fitness trends and insights.
 This project explores my 2024 Garmin fitness data, analyzing trends in **activity levels, calorie burn, sleep, stress, and heart rate**. The analysis highlights seasonal patterns, correlations, and key insights into my personal fitness journey.  
 
 🔗 **[View Full Report](https://docs.google.com/document/d/1jZXqxGmIWW14U3JyVyc6DQdZx8VXqVbCseATCE1izQo/edit?usp=sharing)**  
-🔗 **[Interactive Kaggle Report](https://www.kaggle.com/code/elissaesterlein/my-2024-garmin-data-report)
+🔗 [Interactive Kaggle Report](https://www.kaggle.com/code/elissaesterlein/my-2024-garmin-data-report)
 
 ## Key Insights  
 - **Activity & Training:** Seasonal patterns in workout intensity, steps, and floors climbed.  
