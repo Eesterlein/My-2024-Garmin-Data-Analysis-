@@ -3,7 +3,6 @@
 ### SUMMARY
 **Purpose:** This is a personal data-driven case study that analyzes my Garmin fitness data to uncover trends in activity, sleep, calorie burn, and stress. 
 **Results:** Activity levels peak in the summer, with September being the most active month (highest intensity minutes, floors climbed, and calories burned) and March the least active. Step count peaked in May, likely due to the transition from winter to more outdoor hiking. Resting heart rate strongly correlates (0.73) with training intensity, but anaerobic activities like mountain biking cause sustained high heart rates despite lower recorded intensity minutes. September had the highest calorie burn, with stair climbing contributing significantly. Best sleep occurred in June, while August had the worst. However, there was no clear connection found between high activity and reduced sleep quality. Stress was highest in October but also peaks in January and February, while September was the least stressful month. Stress levels appear to follow a cyclical monthly pattern of rising and falling. **Conclusion:** The data suggests maintaining winter activity, balancing high-intensity workouts for recovery, and monitoring heart rate and stress levels for better long-term fitness and well-being.
-**Acknowledgement:** This analysis was conducted with the help of ChatGPT, assisting in data processing, visualization, and interpretation to uncover meaningful trends from my Garmin data.
 
 ### QUESTIONS
 **ACTIVITY**
